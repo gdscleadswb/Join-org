@@ -8,6 +8,3 @@
 | <img src="https://avatars.githubusercontent.com/u/86338762?v=4" width="80px">| Abhishek Kushwaha | JIS UNIVERSITY | [Github](https://github.com/Abbhiishek) <br/> [Twitter](https://twitter.com/abbhishek_k)|
 | <img src="https://avatars.githubusercontent.com/u/74916308?v=4" width="80px"> |Sawan Bhattacharya | Narula Institute of Technology | [kriptonian1](https://github.com/kriptonian1)|
 
-
-
-
