@@ -11,5 +11,6 @@
 | <img src="https://avatars.githubusercontent.com/u/94007936?v=4" width="80px"> | Sharanya Mitra | St. Xavier's College (Autonomous) - Kolkata | [GitHub](https://github.com/Rick-mad-lab)
 | <img src="https://avatars.githubusercontent.com/u/109587894?v=4" width="80px"> | Chimmon Ghosh Pakma | Sister Nivedita University | [GitHub](https://github.com/chimmonp)
 | <img src="https://avatars.githubusercontent.com/u/57912157?v=4" width="80px"> |Gourav Ghosal | Techno India University | [GitHub](https://github.com/gourav221b) 
+| <img src="https://avatars.githubusercontent.com/u/74983536?v=4" width="80px"> | Sayantani Deb | Siliguri Institute Of Technology | [GitHub](https://github.com/SayantaniDeb)  <br/> [Twitter](https://twitter.com/codewithshytan) |
 
 
