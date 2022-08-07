@@ -7,4 +7,5 @@
 | <img src="https://avatars.githubusercontent.com/u/94007936?v=4" width="80px"> | Sharanya Mitra|St Xavier's College Kolkata|[Github](https://github.com/Rick-mad-lab)|
 | <img src="https://avatars.githubusercontent.com/u/86338762?v=4" width="80px">| Abhishek Kushwaha | JIS UNIVERSITY | [Github](https://github.com/Abbhiishek) <br/> [Twitter](https://twitter.com/abbhishek_k)|
 | <img src="https://avatars.githubusercontent.com/u/74916308?v=4" width="80px"> |Sawan Bhattacharya | Narula Institute of Technology | [kriptonian1](https://github.com/kriptonian1)|
+| <img src="https://avatars.githubusercontent.com/u/80455812?v=4" width="80px"> |Souvik Ojha | Institute of Engineering and Management Kolkata | [GitHub](https://github.com/techsouvik)
 
