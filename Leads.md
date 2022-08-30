@@ -1,4 +1,4 @@
-# All GDSC Leads from West Bengal
+# All GDSC Leads from West Bengal 2022
 | Avatar   |     Name |      Campus   |  Profile |
 |:---------|----------|:-------------:|------:|
 |  <img src="https://avatars.githubusercontent.com/u/67071462?v=4" width="80px">| Kumar Kalyan |Camellia Institute Of Technology| [GitHub](https://github.com/kum9748ar) |
