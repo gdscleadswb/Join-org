@@ -13,5 +13,4 @@
 | <img src="https://avatars.githubusercontent.com/u/57912157?v=4" width="80px"> |Gourav Ghosal | Techno India University | [GitHub](https://github.com/gourav221b)
 | <img src="https://avatars.githubusercontent.com/u/74983536?v=4" width="80px"> | Sayantani Deb | Siliguri Institute Of Technology | [GitHub](https://github.com/SayantaniDeb)  <br/> [Twitter](https://twitter.com/codewithshytan) |
 | <img src="https://avatars.githubusercontent.com/u/83830134?v=4" width="80px"> | Aman Ahmed Siddiqui | Aliah University New Town | [Github](https://github.com/sid-am-ahd935) |
-
-
+| <img src="https://avatars.githubusercontent.com/u/95460021?v=4" width="80px"> | Shreya Sarkar | Jalpaiguri Government Engineering College | [GitHub](https://github.com/zugzwang03)  <br/> [Twitter](https://twitter.com/zugzwang03) |
